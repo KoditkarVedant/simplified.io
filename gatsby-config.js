@@ -9,7 +9,7 @@ module.exports = {
     description: `simplified.io`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `vedantkoditkar`,
+      twitter: `https://twitter.com/vedantkoditkar`,
       github: `https://github.com/KoditkarVedant`,
       stackoverflow: 'https://stackoverflow.com/users/7142532/vedant',
       linkedin: 'https://www.linkedin.com/in/vedantkoditkar/'
